@@ -38,8 +38,8 @@ The system:
 - Sends reply back to the user
 - Tracks everything in Airtable
 
->  * Manual response time: 12-24 hours (read, classify, reply manually) -> under 2 minutes end-to-end automated
->  * Classification accuracy: LLM correctly routes to individual inquiry type sections without manual triage
+>  * Manual response time: 12-24 hours (read, classify, reply manually) -> under 60 seconds end-to-end automated
+>  * Classification accuracy: LLM correctly routes to individual inquiry sections without manual triage
 >  * Record keeping: 0% structured before -> 100% logged in Airtable with response tracked per inquiry type
 
 Why chosen: A single person managing a portfolio can't monitor email constantly. This ensures no inquiry goes unanswered or untracked, even at odd hours.
